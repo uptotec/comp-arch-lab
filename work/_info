@@ -1,0 +1,306 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mahmo/Downloads/comp-arch-lab
+Ealu_1
+Z1 w1646129673
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd
+Z6 FC:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd
+l0
+L5
+VC9WT<oi7DOkBI83P1BYG>3
+!s100 @Web^Z72MGke_jMRVYR8n1
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1646731914
+!i10b 1
+Z9 !s108 1646731914.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd|
+Z11 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R2
+R3
+R4
+DEx4 work 5 alu_1 0 22 C9WT<oi7DOkBI83P1BYG>3
+l45
+L12
+V[L;Dj;DZ6lRj5GYbLejjH3
+!s100 ]<zZRloGoP20HY@<eP]Jd0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu_32bit
+w1646732112
+R3
+R4
+R0
+8C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd
+FC:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd
+l0
+L4
+V17mg9dl4bNSiS_W]0XnhB3
+!s100 OC`l:^jC8M9]3TN3VVzdI1
+R7
+32
+!s110 1646732121
+!i10b 1
+!s108 1646732121.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd|
+!s107 C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd|
+!i113 1
+R12
+R13
+Eand_2
+Z14 w1646128881
+R3
+R4
+R0
+Z15 8C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd
+Z16 FC:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd
+l0
+L4
+Vj`XWZF=N69Nkhk4flJS:P3
+!s100 elLDEHK7aCJ;B9B86D6a90
+R7
+32
+Z17 !s110 1646731915
+!i10b 1
+Z18 !s108 1646731915.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd|
+Z20 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 5 and_2 0 22 j`XWZF=N69Nkhk4flJS:P3
+l11
+L10
+Vec7hX;;oY8?iWEd>SC1ni0
+!s100 T>UP2Ug?JH^=2TXh6Niej1
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Efull_adder
+Z21 w1645524250
+R3
+R4
+R0
+Z22 8C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd
+Z23 FC:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd
+l0
+L4
+VYlfJW[zea5YD6@QP@7Rn=2
+!s100 A3^SN^`Vgl_>ElYIOX;da0
+R7
+32
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd|
+Z25 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 10 full_adder 0 22 YlfJW[zea5YD6@QP@7Rn=2
+l10
+L9
+VO4:Vc@0EWih<ThYM6X7Of2
+!s100 VNP2UnCzLNJ_F@Wn;Z33M2
+R7
+32
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R12
+R13
+Emult_2
+Z26 w1646130112
+R3
+R4
+R0
+Z27 8C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd
+Z28 FC:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd
+l0
+L4
+VdRnEKRTminPD7VGealO7j2
+!s100 =eI;H6nFPJN]Zc^?hn_]83
+R7
+32
+R17
+!i10b 1
+R18
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd|
+Z30 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 6 mult_2 0 22 dRnEKRTminPD7VGealO7j2
+l11
+L10
+VeF:ZWPC3k>9QI<=hPX8n83
+!s100 bL=edh`81Xk@z]NQ[n>Rf3
+R7
+32
+R17
+!i10b 1
+R18
+R29
+R30
+!i113 1
+R12
+R13
+Emux_4
+Z31 w1646130232
+R3
+R4
+R0
+Z32 8C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd
+Z33 FC:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd
+l0
+L4
+V`aEAmjdUYfaMC_c;V9I:W3
+!s100 LB_h[CUL<h2:^ZAge6_6F0
+R7
+32
+Z34 !s110 1646731916
+!i10b 1
+R18
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd|
+Z36 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 5 mux_4 0 22 `aEAmjdUYfaMC_c;V9I:W3
+l13
+L12
+VY2T:7HOz^f=7KDh2n55H]2
+!s100 Il;dXO@cVh0i<Bk<RUNHG3
+R7
+32
+R34
+!i10b 1
+R18
+R35
+R36
+!i113 1
+R12
+R13
+Enot_1
+Z37 w1646129180
+R3
+R4
+R0
+Z38 8C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd
+Z39 FC:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd
+l0
+L4
+VE7e[fICUX[nM4>mPVI>YN3
+!s100 EAUk5<JBU^D0:_m8iY^ml2
+R7
+32
+R34
+!i10b 1
+Z40 !s108 1646731916.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd|
+Z42 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 5 not_1 0 22 E7e[fICUX[nM4>mPVI>YN3
+l11
+L10
+V?GS]0JK1NfiCg>JLGG^^h3
+!s100 j:G<53]`3;L227HKcC`HG3
+R7
+32
+R34
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R12
+R13
+Eor_2
+Z43 w1646129375
+R3
+R4
+R0
+Z44 8C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd
+Z45 FC:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd
+l0
+L4
+VdTEHY^9IW?MnI4b[>6Q^z3
+!s100 [Vh12m:SXhV9Nl=hXWi0h3
+R7
+32
+R8
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd|
+Z47 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd|
+!i113 1
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 4 or_2 0 22 dTEHY^9IW?MnI4b[>6Q^z3
+l11
+L10
+V9XUb<430d0094:]ECof;Q2
+!s100 YZa[MY0O^LkAKL5`UD[k:1
+R7
+32
+R8
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13

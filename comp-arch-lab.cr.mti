@@ -1,0 +1,58 @@
+C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mult_2
+-- Compiling architecture rtl of mult_2
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_2
+-- Compiling architecture rtl of and_2
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_1
+-- Compiling architecture rtl of not_1
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_4
+-- Compiling architecture rtl of mux_4
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Full_Adder
+-- Compiling architecture rtl of Full_Adder
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity alu_1
+-- Compiling architecture rtl of alu_1
+
+} {} {}} C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_2
+-- Compiling architecture rtl of or_2
+
+} {} {}}
