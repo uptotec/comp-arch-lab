@@ -7,38 +7,38 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/mahmo/Downloads/comp-arch-lab
-Ealu_1
-Z1 w1646129673
-Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-R0
-Z5 8C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd
-Z6 FC:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd
+dC:/abdulrahman198194
+Ealu32_regfile
+Z0 w1647942238
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Administrator/Downloads/project (2)/project
+Z5 8C:/Users/Administrator/Downloads/project (2)/project/alu32_Regfile.vhd
+Z6 FC:/Users/Administrator/Downloads/project (2)/project/alu32_Regfile.vhd
 l0
 L5
-VC9WT<oi7DOkBI83P1BYG>3
-!s100 @Web^Z72MGke_jMRVYR8n1
-Z7 OP;C;10.4a;61
+VNO8AC8];gTWfdQSzH>cY52
+!s100 CmXVdcmcXJHN`>d[`@<>O1
+Z7 OV;C;10.5b;63
 32
-Z8 !s110 1646731914
+Z8 !s110 1647942527
 !i10b 1
-Z9 !s108 1646731914.000000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd|
-Z11 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/alu_1.vhd|
+Z9 !s108 1647942526.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/alu32_Regfile.vhd|
+Z11 !s107 C:/Users/Administrator/Downloads/project (2)/project/alu32_Regfile.vhd|
 !i113 1
-Z12 o-work work -2002 -explicit -O0
-Z13 tExplicit 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
 Artl
+R1
 R2
 R3
-R4
-DEx4 work 5 alu_1 0 22 C9WT<oi7DOkBI83P1BYG>3
-l45
-L12
-V[L;Dj;DZ6lRj5GYbLejjH3
-!s100 ]<zZRloGoP20HY@<eP]Jd0
+DEx4 work 13 alu32_regfile 0 22 NO8AC8];gTWfdQSzH>cY52
+l35
+L17
+V03[=?BEJ;Sm?dE35EGWNG2
+!s100 T]XOY9cd:UZ@2nlBV`cZR1
 R7
 32
 R8
@@ -49,56 +49,37 @@ R11
 !i113 1
 R12
 R13
-Ealu_32bit
-w1646732112
+Ealu_1bit
+Z14 w1646130164
+R1
+R2
 R3
 R4
-R0
-8C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd
-FC:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd
+Z15 8C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+Z16 FC:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
 l0
-L4
-V17mg9dl4bNSiS_W]0XnhB3
-!s100 OC`l:^jC8M9]3TN3VVzdI1
+L5
+VzDMd8]YEnO_55;6P]9;QU2
+!s100 Rl3EB:A5`mTTBn=OT>87m0
 R7
 32
-!s110 1646732121
+Z17 !s110 1647942526
 !i10b 1
-!s108 1646732121.000000
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd|
-!s107 C:/Users/mahmo/Downloads/comp-arch-lab/alu_32bit.vhd|
-!i113 1
-R12
-R13
-Eand_2
-Z14 w1646128881
-R3
-R4
-R0
-Z15 8C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd
-Z16 FC:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd
-l0
-L4
-Vj`XWZF=N69Nkhk4flJS:P3
-!s100 elLDEHK7aCJ;B9B86D6a90
-R7
-32
-Z17 !s110 1646731915
-!i10b 1
-Z18 !s108 1646731915.000000
-Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd|
-Z20 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/and_2.vhd|
+Z18 !s108 1647942525.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd|
+Z20 !s107 C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd|
 !i113 1
 R12
 R13
 Artl
+R1
+R2
 R3
-R4
-DEx4 work 5 and_2 0 22 j`XWZF=N69Nkhk4flJS:P3
-l11
-L10
-Vec7hX;;oY8?iWEd>SC1ni0
-!s100 T>UP2Ug?JH^=2TXh6Niej1
+DEx4 work 8 alu_1bit 0 22 zDMd8]YEnO_55;6P]9;QU2
+l45
+L11
+VSUionHm207GSYLWfNXHmK0
+!s100 ^_nDLU=b5RzU4BfLli3i@1
 R7
 32
 R17
@@ -109,198 +90,360 @@ R20
 !i113 1
 R12
 R13
-Efull_adder
-Z21 w1645524250
+Ealu_32bit
+Z21 w1647942518
+R1
+R2
 R3
 R4
-R0
-Z22 8C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd
-Z23 FC:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd
+Z22 8C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd
+Z23 FC:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd
 l0
-L4
-VYlfJW[zea5YD6@QP@7Rn=2
-!s100 A3^SN^`Vgl_>ElYIOX;da0
+L5
+V`Aij<3PzYCa6[?geTX:N>2
+!s100 TC=O9>OhC<N6[B`H9G>iz0
 R7
 32
 R17
 !i10b 1
-R18
-Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd|
-Z25 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/Full_Adder.vhd|
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd|
+Z25 !s107 C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd|
 !i113 1
 R12
 R13
 Artl
+R1
+R2
 R3
-R4
-DEx4 work 10 full_adder 0 22 YlfJW[zea5YD6@QP@7Rn=2
-l10
-L9
-VO4:Vc@0EWih<ThYM6X7Of2
-!s100 VNP2UnCzLNJ_F@Wn;Z33M2
+DEx4 work 9 alu_32bit 0 22 `Aij<3PzYCa6[?geTX:N>2
+l21
+L13
+Vb:]:gMjXPaeki?4DE[fYg0
+!s100 o0[GlO^IeYQ;65[E@H=Pn1
 R7
 32
 R17
 !i10b 1
-R18
+R9
 R24
 R25
 !i113 1
 R12
 R13
-Emult_2
-Z26 w1646130112
+Eand_2
+Z26 w1646129260
+R2
 R3
 R4
-R0
-Z27 8C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd
-Z28 FC:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd
+Z27 8C:/Users/Administrator/Downloads/project (2)/project/and_2.vhd
+Z28 FC:/Users/Administrator/Downloads/project (2)/project/and_2.vhd
 l0
 L4
-VdRnEKRTminPD7VGealO7j2
-!s100 =eI;H6nFPJN]Zc^?hn_]83
+V6_CC=[eDKiKE>9Y4X2C:o2
+!s100 TaT2GFR==CZdgeP;2K`5R0
 R7
 32
 R17
 !i10b 1
-R18
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd|
-Z30 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/mult_2.vhd|
+R9
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/and_2.vhd|
+Z30 !s107 C:/Users/Administrator/Downloads/project (2)/project/and_2.vhd|
 !i113 1
 R12
 R13
 Artl
+R2
 R3
-R4
-DEx4 work 6 mult_2 0 22 dRnEKRTminPD7VGealO7j2
+DEx4 work 5 and_2 0 22 6_CC=[eDKiKE>9Y4X2C:o2
 l11
 L10
-VeF:ZWPC3k>9QI<=hPX8n83
-!s100 bL=edh`81Xk@z]NQ[n>Rf3
+V2PE=^eR:JZVlbWDoMGgBL1
+!s100 I@PXi=LJLPl>J8P4FG:<22
 R7
 32
 R17
 !i10b 1
-R18
+R9
 R29
 R30
 !i113 1
 R12
 R13
-Emux_4
-Z31 w1646130232
+Edata_memory
+Z31 w1648547862
+R1
+R2
 R3
 R4
-R0
-Z32 8C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd
-Z33 FC:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd
+Z32 8C:/Users/Administrator/Downloads/project (2)/project/data_memory.vhd
+Z33 FC:/Users/Administrator/Downloads/project (2)/project/data_memory.vhd
 l0
-L4
-V`aEAmjdUYfaMC_c;V9I:W3
-!s100 LB_h[CUL<h2:^ZAge6_6F0
+L5
+VcAmNmJ2BIaZf0LSkmiSW?2
+!s100 ^acQ9]d?O0ZGgO@XWO4H01
 R7
 32
-Z34 !s110 1646731916
+Z34 !s110 1648547868
 !i10b 1
-R18
-Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd|
-Z36 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/mux_4.vhd|
+Z35 !s108 1648547868.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/data_memory.vhd|
+Z37 !s107 C:/Users/Administrator/Downloads/project (2)/project/data_memory.vhd|
 !i113 1
 R12
 R13
 Artl
+R1
+R2
 R3
-R4
-DEx4 work 5 mux_4 0 22 `aEAmjdUYfaMC_c;V9I:W3
-l13
-L12
-VY2T:7HOz^f=7KDh2n55H]2
-!s100 Il;dXO@cVh0i<Bk<RUNHG3
+Z38 DEx4 work 11 data_memory 0 22 cAmNmJ2BIaZf0LSkmiSW?2
+l17
+L13
+V7AK;>NM=PhM:<ze^IT5ib3
+!s100 0J3^ON_fCLT]K5BCWXa]d2
 R7
 32
 R34
 !i10b 1
-R18
 R35
 R36
+R37
+!i113 1
+R12
+R13
+Efull_adder
+Z39 w1646127722
+R2
+R3
+R4
+Z40 8C:/Users/Administrator/Downloads/project (2)/project/full_adder.vhd
+Z41 FC:/Users/Administrator/Downloads/project (2)/project/full_adder.vhd
+l0
+L3
+VbDEcKUA_l>=Mkc3eojAN`0
+!s100 k`SnzK=^1gzbefFQ<C2Wm0
+R7
+32
+R17
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/full_adder.vhd|
+Z43 !s107 C:/Users/Administrator/Downloads/project (2)/project/full_adder.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 10 full_adder 0 22 bDEcKUA_l>=Mkc3eojAN`0
+l9
+L8
+VOe7K:>YD8F[RWX>CmT65E0
+!s100 el2WQSE<GOXKb_7R<[Mh51
+R7
+32
+R17
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Emux_2
+Z44 w1646129804
+R2
+R3
+R4
+Z45 8C:/Users/Administrator/Downloads/project (2)/project/mux_2.vhd
+Z46 FC:/Users/Administrator/Downloads/project (2)/project/mux_2.vhd
+l0
+L3
+Vf4`4>Xg2T^o;QXcaT@4QV2
+!s100 dPE6?oMTSNA?ClcdQFY@=2
+R7
+32
+R17
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/mux_2.vhd|
+Z48 !s107 C:/Users/Administrator/Downloads/project (2)/project/mux_2.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 5 mux_2 0 22 f4`4>Xg2T^o;QXcaT@4QV2
+l9
+L8
+VMdN^l26zWMOI^nZeM8kSe2
+!s100 j=JNghR0`75i>LzKFJ[GQ3
+R7
+32
+R17
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+Emux_4
+Z49 w1646130044
+R2
+R3
+R4
+Z50 8C:/Users/Administrator/Downloads/project (2)/project/mux_4.vhd
+Z51 FC:/Users/Administrator/Downloads/project (2)/project/mux_4.vhd
+l0
+L3
+V:bi7jc43YH0V`CS8zlc3n1
+!s100 YGaF?8__0BRbdN15Uf?G:0
+R7
+32
+R17
+!i10b 1
+R9
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/mux_4.vhd|
+Z53 !s107 C:/Users/Administrator/Downloads/project (2)/project/mux_4.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 5 mux_4 0 22 :bi7jc43YH0V`CS8zlc3n1
+l11
+L10
+VUiiIPc6Ab;H^U8MLHJ2IL3
+!s100 Y56=QKIhz09Ih8ihF[Fz51
+R7
+32
+R17
+!i10b 1
+R9
+R52
+R53
 !i113 1
 R12
 R13
 Enot_1
-Z37 w1646129180
+Z54 w1646130400
+R2
 R3
 R4
-R0
-Z38 8C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd
-Z39 FC:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd
+Z55 8C:/Users/Administrator/Downloads/project (2)/project/not_1.vhd
+Z56 FC:/Users/Administrator/Downloads/project (2)/project/not_1.vhd
 l0
 L4
-VE7e[fICUX[nM4>mPVI>YN3
-!s100 EAUk5<JBU^D0:_m8iY^ml2
+V226LAYMR^>c:J1GnY^`J>1
+!s100 fE;73RfGfeb9V2?n1VKKc3
 R7
 32
-R34
+R17
 !i10b 1
-Z40 !s108 1646731916.000000
-Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd|
-Z42 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/not_1.vhd|
+R9
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/not_1.vhd|
+Z58 !s107 C:/Users/Administrator/Downloads/project (2)/project/not_1.vhd|
 !i113 1
 R12
 R13
 Artl
+R2
 R3
-R4
-DEx4 work 5 not_1 0 22 E7e[fICUX[nM4>mPVI>YN3
+DEx4 work 5 not_1 0 22 226LAYMR^>c:J1GnY^`J>1
 l11
 L10
-V?GS]0JK1NfiCg>JLGG^^h3
-!s100 j:G<53]`3;L227HKcC`HG3
+VOE0;5gXRTSPJoD^69^j7S0
+!s100 8B71M8Pzz30iV[McCG34G2
 R7
 32
-R34
+R17
 !i10b 1
-R40
-R41
-R42
+R9
+R57
+R58
 !i113 1
 R12
 R13
 Eor_2
-Z43 w1646129375
+Z59 w1646129498
+R2
 R3
 R4
-R0
-Z44 8C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd
-Z45 FC:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd
+Z60 8C:/Users/Administrator/Downloads/project (2)/project/or_2.vhd
+Z61 FC:/Users/Administrator/Downloads/project (2)/project/or_2.vhd
 l0
 L4
-VdTEHY^9IW?MnI4b[>6Q^z3
-!s100 [Vh12m:SXhV9Nl=hXWi0h3
+VaOHzKh?lZ7f`AToY4AO8J1
+!s100 o_znfHb@`DfJFdG=U]Fde0
 R7
 32
-R8
+Z62 !s110 1647942525
 !i10b 1
-R9
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd|
-Z47 !s107 C:/Users/mahmo/Downloads/comp-arch-lab/or_2.vhd|
+R18
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/or_2.vhd|
+Z64 !s107 C:/Users/Administrator/Downloads/project (2)/project/or_2.vhd|
 !i113 1
 R12
 R13
 Artl
+R2
 R3
-R4
-DEx4 work 4 or_2 0 22 dTEHY^9IW?MnI4b[>6Q^z3
+DEx4 work 4 or_2 0 22 aOHzKh?lZ7f`AToY4AO8J1
 l11
 L10
-V9XUb<430d0094:]ECof;Q2
-!s100 YZa[MY0O^LkAKL5`UD[k:1
+V;1k5[[TJ>OHYhQ1[z:>:i3
+!s100 gS>2nEcRf[h49@6kD>mlk0
 R7
 32
-R8
+R62
+!i10b 1
+R18
+R63
+R64
+!i113 1
+R12
+R13
+Eregister_file
+Z65 w1647941300
+R1
+R2
+R3
+R4
+Z66 8C:/Users/Administrator/Downloads/project (2)/project/register_file.vhd
+Z67 FC:/Users/Administrator/Downloads/project (2)/project/register_file.vhd
+l0
+L5
+VWAckGZ?]XHD<m]JcM_:HB0
+!s100 hz<`h1gQ7W8RcZLi>NB:D0
+R7
+32
+R17
 !i10b 1
 R9
-R46
-R47
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Administrator/Downloads/project (2)/project/register_file.vhd|
+Z69 !s107 C:/Users/Administrator/Downloads/project (2)/project/register_file.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 WAckGZ?]XHD<m]JcM_:HB0
+l16
+L12
+Vl^@_kHO?lC@l3zE:Y3fOb0
+!s100 bTDkTA0PZIOI03NCg8PBE0
+R7
+32
+R17
+!i10b 1
+R9
+R68
+R69
 !i113 1
 R12
 R13

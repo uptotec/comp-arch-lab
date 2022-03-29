@@ -6,7 +6,6 @@ sel: in std_logic_vector (1 downto 0);
 a,b,c,d: in std_logic;
 y: out std_logic);
 end mux_4;
-
 architecture rtl of mux_4 is 
 begin
 process(sel,a,b,c,d)

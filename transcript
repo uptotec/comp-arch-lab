@@ -1,0 +1,275 @@
+# vsim work.alu32_Regfile 
+# Start time: 11:45:25 on Mar 22,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.alu32_regfile(rtl)
+# Loading work.alu_32bit(rtl)
+# Loading work.alu_1bit(rtl)
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(22): No default binding for component instance 'A1'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/A1 File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# Loading work.full_adder(rtl)
+# Loading work.mux_2(rtl)
+# Loading work.and_2(rtl)
+# Loading work.not_1(rtl)
+# Loading work.mux_4(rtl)
+# Loading work.or_2(rtl)
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(1)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(2)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(3)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(4)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(5)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(6)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(7)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(8)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(9)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(10)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(11)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(12)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(13)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(14)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(15)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(16)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(17)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(18)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(19)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(20)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(21)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(22)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(23)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(24)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(25)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(26)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(27)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(28)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(29)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/G1(30)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(26): No default binding for component instance 'A32'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c1/A32 File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(22): No default binding for component instance 'A1'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/A1 File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(1)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(2)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(3)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(4)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(5)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(6)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(7)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(8)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(9)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(10)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(11)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(12)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(13)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(14)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(15)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(16)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(17)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(18)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(19)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(20)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(21)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(22)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(23)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(24)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(25)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(26)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(27)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(28)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(29)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(24): No default binding for component instance 'ALUs'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/G1(30)/ALUs File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# ** Error: (vsim-3732) C:/Users/Administrator/Downloads/project (2)/project/alu_32bit.vhd(26): No default binding for component instance 'A32'.
+#    The following component port is not on the entity:
+#           results
+#    Time: 0 ps  Iteration: 0  Instance: /alu32_regfile/c2/A32 File: C:/Users/Administrator/Downloads/project (2)/project/alu_1bit.vhd
+# Loading work.register_file(rtl)
+# Error loading design
+# End time: 11:45:26 on Mar 22,2022, Elapsed time: 0:00:01
+# Errors: 64, Warnings: 0
